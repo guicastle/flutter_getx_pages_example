@@ -217,14 +217,10 @@ Imagine que seu app é um **shopping center**:
 
 ---
 
-## ⚙️ Quer um exemplo funcionando?
+## ⚙️ mini projeto Flutter com GetX funcionando :)
 
-Se quiser, posso montar um **mini projeto Flutter com GetX** mostrando:
-
-* `app_links` → redirecionando com `Get.toNamed()`
-* `navigation_history_observer` → logando todas as rotas acessadas
-
-👉 Me avisa e preparo um exemplo simples!
+👉 by @kads
 
 ---
+
 
